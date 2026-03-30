@@ -18,6 +18,8 @@ This project highlights the key digital skills that a modern computer science st
 # 📂 Repository Structure
 
     📦 Digital-Literacy-Project
+     ┃ 📂 report
+     ┃ ┗ 📜 Digital Literacy Project Report.pdf
      ┣ 📂 task-1-presentation
      ┃ ┗ 📜 Digital Literacy Project Task 1.png.png
      ┣ 📂 task-2-portfolio
@@ -36,8 +38,6 @@ This project highlights the key digital skills that a modern computer science st
      ┣ 📂 task-5-cybercrime
      ┃ ┣ 📜 casestudy.md
      ┃ ┗ 📜 prevention-checklist.md
-     ┣ 📜 report
-     ┃ ┗ 📜 Digital Literacy Project Report.pdf
      ┗ 📜 Readme.md
 
 ### Task 1: Digital Literacy Visual Resource
